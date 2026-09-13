@@ -1,0 +1,702 @@
+[
+  {
+    "id": "sample_0000",
+    "reference": "E ni toripe obinrin kan se nkan to dun yin abi to se nkan ti o da fun yin, ka ro pe gbogbo obinrin ni o da o you need to base your",
+    "prediction": "Ẹni torí pé obìnrin kan ṣe nǹkan tó dùn yín àbí tó ṣe nǹkan tí ò da fún yín ká rò pé gbogbo obìnrin ni ò dá o need to base your\n",
+    "model": "Sahara/Intron",
+    "duration": 4.206178426742554
+  },
+  {
+    "id": "sample_0001",
+    "reference": "Iwo ni problem mi, nibo loti jawa lai lokun lorun Iwo ni guts lati wonu Ile mi wa",
+    "prediction": "Ìwọ ni problem mi o ti já ní Gut láti wọnú ilé mi wá?\n",
+    "model": "Sahara/Intron",
+    "duration": 3.6014552116394043
+  },
+  {
+    "id": "sample_0002",
+    "reference": "Ara yin len da loro emi ko, haa! Emi o le gba ki omobinrin yii ko ko eru jade abi ki lo wi? just like that?",
+    "prediction": "Ara yín lè dá lóró èmi kọ́ èmi ò lè gbà kí ọmọbìnrin kó ẹrù kó jáde àti kí ló wí that we put it just lither\n",
+    "model": "Sahara/Intron",
+    "duration": 6.492424726486206
+  },
+  {
+    "id": "sample_0003",
+    "reference": "emi tun ro nkankan oo ah tori awon oga mi to pe to ni awon ma send owo si wa yi hmm hmm a le so wipe o ma send e kiakia ko de ma tete send e emi ro wipe",
+    "prediction": "Èmi tún nǹkan kan o torí àwọn ọ̀gá mi tán pé ìtọ́jú sí wà yìí a lè sọ wípé wọ́n ma sè ń jẹ́ kíákíá kó dẹ̀ má tètè sẹ́n dé èmi rò\n",
+    "model": "Sahara/Intron",
+    "duration": 6.960859775543213
+  },
+  {
+    "id": "sample_0004",
+    "reference": "Kilode to fi allow wọn lati operate POS? Awọn noni mo fẹ operate rẹ awon noni kin gbe wa kawọn operate rẹ fun ra wọn It’s your duty moti man sọ fun yin",
+    "prediction": "Kílódé tó fi ànà wa láti operate US Àwọn ofe operate àwọn money kim dow account a fun it up due to mo ti máa ń sọ fún yín\n",
+    "model": "Sahara/Intron",
+    "duration": 5.728251218795776
+  },
+  {
+    "id": "sample_0005",
+    "reference": "nilu nila ab gbe gbe ṣe, ki gbogbo è lé lójú ti Ka pa wo pò, ka jọ wà nkan ṣe sọrọ yi. iya Deṣola eh, mo nbọ ki ni oun to nṣe nibe yen? Ah ah no nbọ abeg, come inside best thing ni yen.",
+    "prediction": "Kajoman Motter Commissamrila Alhambili\n",
+    "model": "Sahara/Intron",
+    "duration": 7.4790940284729
+  },
+  {
+    "id": "sample_0006",
+    "reference": "Ko mo ona to ma fi pada si school",
+    "prediction": "kò mọ ọ̀nà tó máa fi\n",
+    "model": "Sahara/Intron",
+    "duration": 3.466031312942505
+  },
+  {
+    "id": "sample_0007",
+    "reference": "tani mo wa fe pe bayi, ejoor, mo trust oko mi ko le jale, ejoor Ara oun ta ma n wi na niyen, olowo kokoro ko ni fi kogi eyan na ni o fiko ma pe l'osan ma pe l'oru",
+    "prediction": "Tani mo fẹ́ pè báyìí ẹjọ́ motrost mi kò le jáde amakọrọ kò ní fi kọ́gi náà ni ó fi kọ́ lọ́sàn\n",
+    "model": "Sahara/Intron",
+    "duration": 3.741237163543701
+  },
+  {
+    "id": "sample_0008",
+    "reference": "So, e ni lati ran wa lowo kawa naa ran yin lowo",
+    "prediction": "Ṣé ẹ ní láti ràn wá lọ́wọ́, ká wa náà ràn yín lọ́wọ́\n",
+    "model": "Sahara/Intron",
+    "duration": 3.9321699142456055
+  },
+  {
+    "id": "sample_0009",
+    "reference": "sé kí n s má sọ fún ẹ pé kó s'ówó lọ́wọ́ mí ní? Okay mi ò l'ówó.",
+    "prediction": "Ṣé kí n máa sọ fún ẹ pé kò ṣòro mi ni? Okay mi ò lówó.\n",
+    "model": "Sahara/Intron",
+    "duration": 4.271427392959595
+  },
+  {
+    "id": "sample_0010",
+    "reference": "Bawo lo se possible? The love of my life. Mi le gbagbe e o. Ko se opin aye mo fe je ke mo. E wo yin beautiful lady ni yin. E de tun kin se ole. For two months now",
+    "prediction": "Possible a long of my life kán ṣòpin ayé mo fẹ́ jẹ́ kẹ mọ̀ ẹ̀ wò yín beautiful lady ni ẹ̀jẹ̀ tú kí ń ṣọ̀lẹ̀ for 2 months now\n",
+    "model": "Sahara/Intron",
+    "duration": 4.015366315841675
+  },
+  {
+    "id": "sample_0011",
+    "reference": "Seri nkan ta fi pamo lojo yen if not that there is a little delay because you know Nigeria happens to everyone, a ba bayin gbe wale ni. Biyi ra moto kekere kan fun",
+    "prediction": "Ferry nǹkan ta fi pamọ́ lọ́jọ́ yẹn if not that there is a little delay, because you know, Nigeria happens to everyone Aba yín gbé wá lé ni ra mọ́tò kékeré kan fún mi\n",
+    "model": "Sahara/Intron",
+    "duration": 7.212386608123779
+  },
+  {
+    "id": "sample_0012",
+    "reference": "n to fun mi ni problem ninu gbogbo oro yen gan niyen yeah pe k'obirin sagbateru, abi bawo ni enu mi se fe toro ta ba se'gbeyawo tan, kini mo se fe to ase ile mi pa o ti ye mi nsin",
+    "prediction": "Tó ń fún mi ń problem nínú gbogbo ọ̀rọ̀ yẹn gan nìyẹn pé kóbìnrin báwo ni ẹnu mi ṣe fẹ́ tọ́rọ̀ tá bá ṣè gbéyàwó tán lé mi pa\n",
+    "model": "Sahara/Intron",
+    "duration": 4.008731365203857
+  },
+  {
+    "id": "sample_0013",
+    "reference": "Osu yen mi o mu je o I got pregnant ma bimo one year",
+    "prediction": "Oṣù yẹn mi ò jẹ our gold pregnant bímọ\n",
+    "model": "Sahara/Intron",
+    "duration": 3.4773342609405518
+  },
+  {
+    "id": "sample_0014",
+    "reference": "What? E mean e. Sunkanmi fimisile o lo?",
+    "prediction": "What mean next túkàn mi fi mí sílẹ̀ ó lọ\n",
+    "model": "Sahara/Intron",
+    "duration": 4.698420763015747
+  },
+  {
+    "id": "sample_0015",
+    "reference": "Ko n se next time e bere leni.",
+    "prediction": "O she next, ẹ bẹ̀rẹ̀ lé ni\n",
+    "model": "Sahara/Intron",
+    "duration": 3.2729480266571045
+  },
+  {
+    "id": "sample_0016",
+    "reference": "Ko include e mo awon to tun ma fun ni scholarship abi",
+    "prediction": "Cur include our controm funny scholarship\n",
+    "model": "Sahara/Intron",
+    "duration": 3.786457061767578
+  },
+  {
+    "id": "sample_0017",
+    "reference": "Hello mo ti sewonba temi le se o E ma binu kabiyesi",
+    "prediction": "I know which is my temperature considering by temle saw I must be mokabies\n",
+    "model": "Sahara/Intron",
+    "duration": 5.72061014175415
+  },
+  {
+    "id": "sample_0018",
+    "reference": "But se iyen ni priority ni life e, o wa marry now, ki ló de ti o joko ti oko e, ki o má ro bí ayé yin se ma daa",
+    "prediction": "Ṣé ìyẹn ni parife ẹ life ni ó wà married now kí ó tó jókòó tọpọ̀ ẹ bá rù báyìí ṣe máa dá\n",
+    "model": "Sahara/Intron",
+    "duration": 5.505037546157837
+  },
+  {
+    "id": "sample_0019",
+    "reference": "E Ku oju lona alright major old soldier, major old soldier",
+    "prediction": "Ẹ kú ojú lọ́nà Alright major also major also\n",
+    "model": "Sahara/Intron",
+    "duration": 5.164421558380127
+  },
+  {
+    "id": "sample_0020",
+    "reference": "Ti éyán ba fẹ make impression as a big girl ni nu occasion to bá lo, one of the things ti a máa n lo ni cigar. Watch me o. Ṣé o n wò mí",
+    "prediction": "Téyàn bá fẹ́ make impression as a big many occasion tó bá lò things a man look signal watch me\n",
+    "model": "Sahara/Intron",
+    "duration": 3.7851498126983643
+  },
+  {
+    "id": "sample_0021",
+    "reference": "enjoy your movie and appetite tv plus baby, aye yin o ni baje, grandma grandma ki lo kan e, mind your business, e ma je kara binrin yi ko gbowo wa lo orun",
+    "prediction": "Injoy movie and appet plus baby ayé yóò ní bàjẹ́ Gagramair this years wa lọ\n",
+    "model": "Sahara/Intron",
+    "duration": 4.234659910202026
+  },
+  {
+    "id": "sample_0022",
+    "reference": "Oun laparo e feku si l'oro bobo yi abi what kind of a man get married to his own hand",
+    "prediction": "Apá fẹ́ kú sí lọ́rọ̀ bọ̀bọ́ ìyá mi mange maries to his own\n",
+    "model": "Sahara/Intron",
+    "duration": 5.333667278289795
+  },
+  {
+    "id": "sample_0023",
+    "reference": "Is okay. Nigbati iwo ri obe lowo oga e, kilode ti iwo o se gba obe yen? Olopa tani n je omo akuwarapa niwaju omo akuyanyan? N le gbobe, won o pa mi. Oga olopa",
+    "prediction": "Is okay nígbà tí wọ́n rí ọ̀bẹ lọ́wọ́ ọ̀gá ẹ̀ ò ṣe gba ọ̀bẹ yẹn ọlọ́gbàlijamba gualia wa gualigbobe\n",
+    "model": "Sahara/Intron",
+    "duration": 4.060990333557129
+  },
+  {
+    "id": "sample_0024",
+    "reference": "ta se, ko to le dipe atoo yin do mo, so I am begging you to please ke ma stress won rara, eyin naa sa mo we pe gbogbo fault ko si kankan ti madam ni ninu e madam has no problem.",
+    "prediction": "Tá yín dọmọking you to please kẹ́ má stress rárá ẹ̀yin náà ṣàmò wípé gbogbo fọ́ọ̀tì kò sí kankan tí màda nínú ẹ. May that has not problem\n",
+    "model": "Sahara/Intron",
+    "duration": 7.502353668212891
+  },
+  {
+    "id": "sample_0025",
+    "reference": "kilódé for the past 2 years Lekan",
+    "prediction": "Kílódé for the pos lẹ́kan\n",
+    "model": "Sahara/Intron",
+    "duration": 4.398093223571777
+  },
+  {
+    "id": "sample_0026",
+    "reference": "olóré uínè mi ni ọlọ́run kò mí bá ti yín jẹ́ àmín ilé àti ọnà yín kò ní bà jẹ́ o bí ẹ ọ̀ sé jẹ́ kí n rí ogún wàhálà àbúrò àti ẹbí yín kò ní rógun wàhálà thank you so much ṣé o rí wọ ní ilé ayé ẹ.",
+    "prediction": "Kò tọpẹ olóre yín lè fi jẹ òun ni patient ilé àti ò ní pà tí ẹ ṣe jẹ́ kí n rí wàhálà àbúrò\n",
+    "model": "Sahara/Intron",
+    "duration": 3.7010464668273926
+  },
+  {
+    "id": "sample_0027",
+    "reference": "Ki lode So mo so mo how many minutes ti mo ti fi wa nta, ti mo fin gbo aruwo won nu le",
+    "prediction": "Kí ló dé many minute tí mo ti fi wanta tí mo fi gbọ́ a\n",
+    "model": "Sahara/Intron",
+    "duration": 3.675091028213501
+  },
+  {
+    "id": "sample_0028",
+    "reference": "So awon people yi won",
+    "prediction": "\n",
+    "model": "Sahara/Intron",
+    "duration": 3.468858480453491
+  },
+  {
+    "id": "sample_0029",
+    "reference": "emi kan fe fun e ni honour yen ni nitiripe mo mo gbogbo effort e ninu ise olopa. But iwo funrara e mo wipe koba ofin ise wa mu. You understand?",
+    "prediction": "Èmi kò fẹ́ fún ẹ ní ọ̀nà yẹn ni nítorí pé mo mọ gbogbo effort ẹ nínú iṣẹ́ ọlọ́pàá but kò bá òfin iṣẹ́ wa mu\n",
+    "model": "Sahara/Intron",
+    "duration": 3.8797659873962402
+  },
+  {
+    "id": "sample_0030",
+    "reference": "Bakanani adaptation won se n ti a ma n pe nipe e won sa ti gba si",
+    "prediction": "Bákan náà ni adaptation wọ́n ṣe n tí a má ń pè ní pé wọ́n sá ti gbà sí\n",
+    "model": "Sahara/Intron",
+    "duration": 4.809231281280518
+  },
+  {
+    "id": "sample_0031",
+    "reference": "Real it? iyen ni mi o mo bo se ri Mo kan fe feel e I will slap you, if you touch me again I’m gonna slap you. Sister mi Selo dabi pe seni mo n lala in fact nkan to tun wa fun mi ju nipe, he was not even remorseful",
+    "prediction": "Really ti ẹni ò mọ bó ṣe rí mo kàn fẹ́ feel like I will sloth you and if you touch may go to lala if got whatever do it jù ni pé he was not even remoteful\n",
+    "model": "Sahara/Intron",
+    "duration": 4.56809663772583
+  },
+  {
+    "id": "sample_0032",
+    "reference": "O ti sun mi, oti sun mi kan ogiri, I dey tell you o",
+    "prediction": "O ti ń sún mi, gan, ó ti ń sún mi kangìrì and the 10\n",
+    "model": "Sahara/Intron",
+    "duration": 3.343862771987915
+  },
+  {
+    "id": "sample_0033",
+    "reference": "Ah moma fe Mo lo'le fe Ani moti fe, moma fe se So fe ma k'oro si mi lenu ni Ah ewo lori this particular one moma k'oro si yin lenu Kilawa fe se si bayi Nkan ta fe se si yen gangangan tori e mo se wa bi",
+    "prediction": "Mo máa fẹ́ ní mo ti fẹ́ mo máa fẹ́ corruptional go is this particular, mo ma kọ sí yín lẹ́nu\n",
+    "model": "Sahara/Intron",
+    "duration": 8.723083019256592
+  },
+  {
+    "id": "sample_0034",
+    "reference": "To fi ma se gbogbo ise to ma se yen, o gbodo reveal identity e fun anybody",
+    "prediction": "To fi máa ṣe gbogbo iṣẹ́ tó máa ṣe yẹn, o ò gbọ́dọ̀ reveal liti fún anybody\n",
+    "model": "Sahara/Intron",
+    "duration": 4.581231117248535
+  },
+  {
+    "id": "sample_0035",
+    "reference": "Aunty mi e ma abort e. Aunty mi e fisile sebi mo ti bayin soro severally Oro kilo ba mi so? Pe",
+    "prediction": "Aunty mi ẹ ma bọ̀ ń sọ̀rọ̀ severally ọ̀rọ̀ kí ló bá mi sọ pé\n",
+    "model": "Sahara/Intron",
+    "duration": 5.892381429672241
+  },
+  {
+    "id": "sample_0036",
+    "reference": "tí o múra báyìí tilí o nilí òhún wá ṣẹ́ tí o wọ zara lé adididas packaging ló máà bá dé",
+    "prediction": "Adidashaji debadio Zara lori Adidasi cup obi rẹ lori reba idile 50 mp ló má bọ̀ dé\n",
+    "model": "Sahara/Intron",
+    "duration": 7.500657558441162
+  },
+  {
+    "id": "sample_0037",
+    "reference": "Oh He did, hmm okay okay no problem, mi ni gbenu le Oro idile yin mo, Okay!",
+    "prediction": "Oh, he did OK OK, no problem mi ò ní gbẹ́mi lórí ọ̀rọ̀ ìdílé yín mọ́ okay\n",
+    "model": "Sahara/Intron",
+    "duration": 6.13182806968689
+  },
+  {
+    "id": "sample_0038",
+    "reference": "je ki n rọmọ Now Taking care of her! Haha! no, no, no, no, báwo lẹ ṣe máa rọmọ lọmọ, why?",
+    "prediction": "\n",
+    "model": "Sahara/Intron",
+    "duration": 3.8840715885162354
+  },
+  {
+    "id": "sample_0039",
+    "reference": "Ata ni, abi eleyi yawere sa kemi si gate fun wo, tani o",
+    "prediction": "Tani o\n",
+    "model": "Sahara/Intron",
+    "duration": 3.903846263885498
+  },
+  {
+    "id": "sample_0040",
+    "reference": "Oko eh nko? oko mi wa aburo eh nko? se blessing? Ehn O wa",
+    "prediction": "Ọkọ̀ ẹ̀kọ́ mi wà to ń kọ́ shapelasin\n",
+    "model": "Sahara/Intron",
+    "duration": 5.1997857093811035
+  },
+  {
+    "id": "sample_0041",
+    "reference": "Emi si tun ma n gba awon contract kan kaakiri",
+    "prediction": "Èmi sì tún máa ń gba àwọn contract kan\n",
+    "model": "Sahara/Intron",
+    "duration": 3.2850348949432373
+  },
+  {
+    "id": "sample_0042",
+    "reference": "abi e so fun mi ode ni si o ni baba olowo le e kuro ninu kitchen o wa de o wa fun awa ni stupidi mood swing ki lo kan awa ati mood swing to ko’ra e si bayi, ti ki n ba ti e se oju kokoro ni",
+    "prediction": "Abi ẹ sọ fún mi sì ní bàbá olówó le kúrò nínú kitching our anship mood strength kí ló carwa àti mode in tó kú rẹ̀ sí wá ṣejú kòkòrò ni\n",
+    "model": "Sahara/Intron",
+    "duration": 5.883477210998535
+  },
+  {
+    "id": "sample_0043",
+    "reference": "Anything tan ba ta fun yin, ateyin atawon, hun!",
+    "prediction": "Anything tó bá tà fún yín àtẹ̀yin àtàwọn\n",
+    "model": "Sahara/Intron",
+    "duration": 3.345498561859131
+  },
+  {
+    "id": "sample_0044",
+    "reference": "I send them here like I promised, but inú mi sì sófo, my heart is still crying, I still feel empty.",
+    "prediction": "I send them here like I promised but Inú mi sí shoofum my heart is still stilecty\n",
+    "model": "Sahara/Intron",
+    "duration": 4.037670850753784
+  },
+  {
+    "id": "sample_0045",
+    "reference": "Oluseye iyiade lo sakojo iroyin yii fun ile ise television alaroye online TV, Faith adebola lo kaa seti igbo yin",
+    "prediction": "Olúṣẹ̀yẹ Adé ló ṣàkójọ ìròyìn fún ilé iṣẹ́ tẹlifísàn aláròyé online Tv Adébáà sẹ́ tí ìgbọ́ yín\n",
+    "model": "Sahara/Intron",
+    "duration": 3.7022764682769775
+  },
+  {
+    "id": "sample_0046",
+    "reference": "that's why you love me en yeah eyin babes, I have to leave now, e joo e ma binu, iyawo",
+    "prediction": "I have to live now etch emabinu iyawo\n",
+    "model": "Sahara/Intron",
+    "duration": 7.341950178146362
+  },
+  {
+    "id": "sample_0047",
+    "reference": "As a matter of fact mi o mo eni to n so yen gangan o, but to ba di pe o kun karan gida gan self a le se foursome like just let's",
+    "prediction": "As the matter of family mo so tó ń sọ yìn gangan gangan, but I should force like just\n",
+    "model": "Sahara/Intron",
+    "duration": 5.6455278396606445
+  },
+  {
+    "id": "sample_0048",
+    "reference": "well fun loke o guy bukunmi yen he is a fine guy e mi like e sha Ehen ehen ehen haha",
+    "prediction": "\n",
+    "model": "Sahara/Intron",
+    "duration": 3.5424652099609375
+  },
+  {
+    "id": "sample_0049",
+    "reference": "se wakati wakati la a ma se Alignment ale ma se ni iseju iseju, kin moto sa ti duro se Alignment ni jeta ewo tun tisin en ro mi lejo ju o",
+    "prediction": "Ṣé wákàtí má ńka tó máa ṣe ní ìṣẹ́jú ìṣẹ́jú kí mọ́tò ṣá ti dúró\n",
+    "model": "Sahara/Intron",
+    "duration": 3.7775352001190186
+  },
+  {
+    "id": "sample_0050",
+    "reference": "Kila fe ku to n so E je ni owo po l'owo yin e je ro t'omo towa l'ori sick bed",
+    "prediction": "Kilofe kuduwalori si\n",
+    "model": "Sahara/Intron",
+    "duration": 4.598358869552612
+  },
+  {
+    "id": "sample_0051",
+    "reference": "Oyinda see with the the look of thing you are taking my love for granted Gbenu sohun",
+    "prediction": "Look of things like your taking my lawful cranted.\n",
+    "model": "Sahara/Intron",
+    "duration": 5.835055112838745
+  },
+  {
+    "id": "sample_0052",
+    "reference": "odo awon parenti'e nani kobale dafunwon nani owa in good hands eyin na efi okebale ooo oju ti'n royin efi okebale owa in good hands Demilade oko mi jori omojoru",
+    "prediction": "Odo àwọn ba le da funwa in good and were unifokunbale or distinguibale own engle and the open\n",
+    "model": "Sahara/Intron",
+    "duration": 4.101061105728149
+  },
+  {
+    "id": "sample_0053",
+    "reference": "tell me with my name, with my dignity, ki n mà lọ si police station, kini mọ wà kiri ni bẹ, haha, you, iwọ Iwo, Iwọ sọ mi di eni to n lọ sọjà.",
+    "prediction": "My name with my position with my dignity, kill sipolisation kill on whibe you work something padà policious, Benton lọ sí lọ sójà\n",
+    "model": "Sahara/Intron",
+    "duration": 4.054872751235962
+  },
+  {
+    "id": "sample_0054",
+    "reference": "O de confirm e fun mi ahh ko ma je nkan ti mo nro oo because",
+    "prediction": "Ó dẹ̀ confer mi fún ó má jẹ́ nǹkan tí mò ń rò because\n",
+    "model": "Sahara/Intron",
+    "duration": 5.8314478397369385
+  },
+  {
+    "id": "sample_0055",
+    "reference": "Tẹ bá ti yí corner báyi Okay. Ehn ehn. Ẹ́ wá yí corner hun padà s’ápá left báyìí. Okay Sir.",
+    "prediction": "Tẹ bá ti yí pọ́n náà bá yí por náà padà sapa left occal\n",
+    "model": "Sahara/Intron",
+    "duration": 5.14741849899292
+  },
+  {
+    "id": "sample_0056",
+    "reference": "Se bohun ni mo sen wu gbogbo iwa palapala ti mo n wu kiri not until igba ti yusuf to tun wa wonu aye wa Ha ha Won nu aye eyin melo Ki lo kilo mean pe wo nu aye wa Folake",
+    "prediction": "Ṣé bọ́n ni mo ṣe ń hù gbogbola tí mò ń wù kiri náà un ti ìgbà tí yousu wá wọnú ayé wa ẹ̀yin mélòó kílò mí pé wọnú ayé wa Fọlákẹ́\n",
+    "model": "Sahara/Intron",
+    "duration": 4.184978008270264
+  },
+  {
+    "id": "sample_0057",
+    "reference": "Ti gbogbo motor yen o ba pada sinu oga yi, consider yourself fired.",
+    "prediction": "tí ó bá padà wẹ́nú bayi consider your set fire\n",
+    "model": "Sahara/Intron",
+    "duration": 4.479848384857178
+  },
+  {
+    "id": "sample_0058",
+    "reference": "Ma ko kin ma wo e dey commot kin ma wo e, o ti pe to tin se osi oriburuku e, eni yi ajo ma no tan bi owo ni Ninu ile mi ibo lon lo bisola haha bisola ewo ni gbogbo robo rebe yi",
+    "prediction": "They commoticly may be otivaturibu ninu le migbo lo lo Bisola Bisolaboribi\n",
+    "model": "Sahara/Intron",
+    "duration": 4.297521114349365
+  },
+  {
+    "id": "sample_0059",
+    "reference": "Eyin ko le fa ni, e wa wa bi bai e n act n bi bai fawa, e n sun ekun egbere, you are playing the victim",
+    "prediction": "Ẹyin kọ́ lẹ́fà ni ẹ wá wá bíb ẹ ti fawa ẹ̀ ń sun ẹkún ìgbèrí a plain\n",
+    "model": "Sahara/Intron",
+    "duration": 4.979046821594238
+  },
+  {
+    "id": "sample_0060",
+    "reference": "Kile leyi? Oo le ka one word níbè So, we are still on your most revered.",
+    "prediction": "Kí ló lè ka you are see on your most reveal\n",
+    "model": "Sahara/Intron",
+    "duration": 3.6901471614837646
+  },
+  {
+    "id": "sample_0061",
+    "reference": "Thirty be è ahh Àlàyé, kò sí kan kan àbí? kò sí mó Alayé echo",
+    "prediction": "Patient Allah see kanla\n",
+    "model": "Sahara/Intron",
+    "duration": 4.076935529708862
+  },
+  {
+    "id": "sample_0062",
+    "reference": "Mo ti fi igi gun oro okunrin nigbesi aye mi, kemi mi le gun. No, No.",
+    "prediction": "Mo ti fi igi gún ọ̀rọ̀ nígbèsì ayé mi, kẹ́\n",
+    "model": "Sahara/Intron",
+    "duration": 5.319213628768921
+  },
+  {
+    "id": "sample_0063",
+    "reference": "The better or else ma bo sita Laago melo le se fe bo sita lati lo ma se kini? Ah ah my dear",
+    "prediction": "The better or health masker láàgo mélòó lẹ́sẹ̀ láti lọ má ṣe kíni ẹṣin tó tọ́ lọ́nà\n",
+    "model": "Sahara/Intron",
+    "duration": 3.7734854221343994
+  },
+  {
+    "id": "sample_0064",
+    "reference": "So nkan to je ko pe ko to pick lati ma sise niyen Opor, se lo ye ki woman yen kuku san owo fun e fun gbogbo ipolowo to un se yi oo, tori",
+    "prediction": "So nǹkan tó yẹ kó pẹ́ kó tó pick láti máa ṣiṣẹ́ ló yẹ kí ó mọ̀ kókó sanwó fún ẹ fún gbogbo ìpolówó tó ń ṣe yóò torí\n",
+    "model": "Sahara/Intron",
+    "duration": 3.6962618827819824
+  },
+  {
+    "id": "sample_0065",
+    "reference": "Idi niyen ni mummy fi ni kin wa bayin, boya e ma mobi tan lo loni Eyin ore wa",
+    "prediction": "Ìdí nìyẹn ni momi fi ní kí n wá bá yín bóyá máa mọ ibi tí wọ́n lọ lónìí\n",
+    "model": "Sahara/Intron",
+    "duration": 5.1565773487091064
+  },
+  {
+    "id": "sample_0066",
+    "reference": "Kán máa break heart mi l'ọtun lósì, òhun ló bámi dé gbogbo ibi tí mo wà yí, I am tired.",
+    "prediction": "Kán ma break at mi lọ̀tún lọ sí gbogbo ibi tí mo wà I'm tired\n",
+    "model": "Sahara/Intron",
+    "duration": 3.870746374130249
+  },
+  {
+    "id": "sample_0067",
+    "reference": "A lo to bi ijo meji ijo meta nibi tan lo Mo wa wo pe ha se eru yi o kere fun aso fun aso ojo meta ni hun to je pe emeji ni e mo change kile o to su Sanyeri Yes sir Sanyeri Yes sir Kilode? Sawon eku na ni",
+    "prediction": "A lò tó bí ọjọ́ 2 ni ibi tí a máa kéré fún a sọ fún aṣọ mẹ́ta, tó jẹ́ pé ẹ̀mejì ni ẹ̀mọ́ ṣéńjì kílẹ̀ tó san\n",
+    "model": "Sahara/Intron",
+    "duration": 4.095981121063232
+  },
+  {
+    "id": "sample_0068",
+    "reference": "Ani bawo ni? Yeh, mama o fikale si E ma worry mo ti wa okay Jokoo,o n gbon. ki lo se to n gbon?",
+    "prediction": "Calesí\n",
+    "model": "Sahara/Intron",
+    "duration": 3.573085308074951
+  },
+  {
+    "id": "sample_0069",
+    "reference": "Mabinu mo gbagbe lati introduce Samson si e, Samson loruko e oun ni oko afesona arike leyin gbogbo ila ilo mi o le marry mo",
+    "prediction": "Má bínú, mo gbàgbé láti introduce some since Samson lórúkọ ni ọkọ àfẹ́sọ́nà Àríkẹ́ lẹ́yìn gbogbo ilà ìlò mi ò lè má\n",
+    "model": "Sahara/Intron",
+    "duration": 9.45348834991455
+  },
+  {
+    "id": "sample_0070",
+    "reference": "Oyelowo Sade ti su, ko nu di, ta wa lafe sidi e fun? And that's why I am saying that we should try and make it happen some how.",
+    "prediction": "Oyè lọ́wọ́ Ṣadé ti should no di tá wá la fẹ́ díẹ̀ fún and that's I'm saying that we should try and should smake it happen some now\n",
+    "model": "Sahara/Intron",
+    "duration": 6.23162579536438
+  },
+  {
+    "id": "sample_0071",
+    "reference": "Sade tan soro e yi pe o lo pemi abo send message si mi nigba tebun wa",
+    "prediction": "Ṣadé tá ń sọ̀rọ̀ pè mí abusen mẹ́sẹ̀ sí mi nígbà tí mo\n",
+    "model": "Sahara/Intron",
+    "duration": 4.743579149246216
+  },
+  {
+    "id": "sample_0072",
+    "reference": "I've known you for a couple of months, mo de ri e ko bere iru nkan bayii ri.",
+    "prediction": "I've knowning for a couple of months, mo dẹ̀ rí ẹ ko bèrè ró nǹkan báyìí rẹ̀\n",
+    "model": "Sahara/Intron",
+    "duration": 4.319952487945557
+  },
+  {
+    "id": "sample_0073",
+    "reference": "Eh eh how far kilo n sele, won da mi mo",
+    "prediction": "Afer Kí ló ń ṣe ilé mọ̀\n",
+    "model": "Sahara/Intron",
+    "duration": 3.6850733757019043
+  },
+  {
+    "id": "sample_0074",
+    "reference": "and they are going to love you, you know, yeah and I will sha love them too, I'm so honored, yes I can't wait to meet your parents tomorrow yeah, so, nkan to so pe o fe so fun mi,",
+    "prediction": "Can that they are going to love you know and I'm child main too I'm sure not yes, I can with me to fast tomorrow. So got to support of my love news fún\n",
+    "model": "Sahara/Intron",
+    "duration": 3.8681795597076416
+  },
+  {
+    "id": "sample_0075",
+    "reference": "ṣe you dey mad ni, ṣe o wá ok sha? ọwọ ma ba ẹ oun o rántí m'ogún oun dani ori é tí yi ẹ jọ n sare ni o ọmọ mi o sare iwọ ti yọ lẹsẹ.",
+    "prediction": "Ajare ni o only what\n",
+    "model": "Sahara/Intron",
+    "duration": 4.294694900512695
+  },
+  {
+    "id": "sample_0076",
+    "reference": "Làtì ìgbà yẹn ni mo ti wá promise wọn pé gbogbo ọna tí wọn ba fi wà láàyé",
+    "prediction": "Láti ìgbà promise wọn pé gbogbo ọ̀nà tí wọ́n bá fi wà láàyè\n",
+    "model": "Sahara/Intron",
+    "duration": 3.3552041053771973
+  },
+  {
+    "id": "sample_0077",
+    "reference": "Because music yẹn máa wà pẹlú arúgbó.",
+    "prediction": "Music yẹn máa wà pẹ̀lú arúgbó\n",
+    "model": "Sahara/Intron",
+    "duration": 3.3759334087371826
+  },
+  {
+    "id": "sample_0078",
+    "reference": "It's about Lolade, ọrọ e ni mowa rí yín fún. Excuse me, please",
+    "prediction": "Is balolade ọ̀rọ̀ ni muhari fún iscues replace\n",
+    "model": "Sahara/Intron",
+    "duration": 3.348172187805176
+  },
+  {
+    "id": "sample_0079",
+    "reference": "Ese wo mofe se mo j'eyan ti o responsible gan ti mo je ni ibowo f'obirin gaan gan to je pe iwonba nkan ti agbara mi baka ti mo man se but t'ogun ba de kosi nibe ta se fese",
+    "prediction": "Ìṣẹ́jú mo fẹ́ ṣẹ̀ mò ń responsible kan tí mo tẹ̀ ní ìbọ̀wọ̀ furi gan tẹ́lẹ̀ bára mi bá ká dé kò sí níbẹ̀ ta ṣe fẹ́ ṣe é,\n",
+    "model": "Sahara/Intron",
+    "duration": 3.7747044563293457
+  },
+  {
+    "id": "sample_0080",
+    "reference": "Thank you. Era. Yeah. Bawo ni day yin. It's okay. Yeah, weldone.",
+    "prediction": "Taking\n",
+    "model": "Sahara/Intron",
+    "duration": 3.544262409210205
+  },
+  {
+    "id": "sample_0081",
+    "reference": "Seventen thousand naira oun ni mo so wipe mo need, e de so wipe ko si problem pe ema fun mi tiba ti wole tiba jade. Ki wa ni nkan te ko le mi lowo yi? Wo",
+    "prediction": "17, mo sọ wípé mo need ẹ lè sọ pé kò sí problem pé máa fún mi tí mo bá ti wọlé tí bá ti jáde kí wà nì nǹkan tí ẹ kó lé mi lọ́wọ́\n",
+    "model": "Sahara/Intron",
+    "duration": 5.239201307296753
+  },
+  {
+    "id": "sample_0082",
+    "reference": "Bíọ́lá má sọ fún mi pé kò sí nkankan, nkan wà. Ìwọ tó jẹ́ pé tó bá dé ibíbayìí wà tí má gist mi gbogbo nkan tó ṣẹlẹ̀, Bíọ́lá sọ̀rọ̀ fúnmi now, kí ló ṣẹ̀ ẹ́? Ọ̀rẹ́ mi, àní mo ti lóyún.",
+    "prediction": "Bí ọ̀la má ń sọ fún mi pé kò sí nǹkan kan wà débíst mi gbogbo nǹkan tó ṣẹlẹ̀ bí ó sọ̀rọ̀ fún mi now kí ló ṣe ẹ́ ni mo ti lò\n",
+    "model": "Sahara/Intron",
+    "duration": 4.036004304885864
+  },
+  {
+    "id": "sample_0083",
+    "reference": "It's better here. Factually everybody lo mo ibi bayii, ko ni da bi ibe yen ti iwo nikan maa n da wa. At least awon eeyan ma wo le, won a maa jade. Won a maa ki e. You can't afford to be alone this period.",
+    "prediction": "It better air factually everybody ló mọ bí báyìí kò ní dàbí ibẹ̀ yẹn tí ìwọ nìkan máa ń dá was àwọn èèyàn á máa wọlé wá máa jáde wọ́n ma care you can't afford to be a long\n",
+    "model": "Sahara/Intron",
+    "duration": 3.8055241107940674
+  },
+  {
+    "id": "sample_0084",
+    "reference": "mo wa okay mo wa okay, ko si nkankan to se mi. Alright, so sa wa pa?, o sure? Alright, ko take care. Bye, I love you.",
+    "prediction": "\n",
+    "model": "Sahara/Intron",
+    "duration": 6.843441724777222
+  },
+  {
+    "id": "sample_0085",
+    "reference": "\"music* but ni ose nu marun ati ri about three major roads to fun wa ni kan ta fe we'll accept observation sir",
+    "prediction": "But nínú moun at re about 3 major race of fún any observation signal for that\n",
+    "model": "Sahara/Intron",
+    "duration": 3.6070492267608643
+  },
+  {
+    "id": "sample_0086",
+    "reference": "A ni running deal now, for the next one week, you are at my service",
+    "prediction": "An irun running deal now, so for the next one week you are at my savings\n",
+    "model": "Sahara/Intron",
+    "duration": 3.577153205871582
+  },
+  {
+    "id": "sample_0087",
+    "reference": "Do u understand, ti mummy ba wa sile yii bayi, ti won bere si bawa gbe, igbayen lema bere si nri fault ara yin, mo de fe wahala fun ra mi, mo de fe wahala fun e, mo de fe wahala fun maami",
+    "prediction": "tí mo bá wá sílé báyìí tó bẹ́ẹ̀ ti bá gbé ìgbà ò tà ò dẹ̀ fẹ́ wàhálà fúnra mi, mo dẹ̀ fẹ́ wà lá fún ẹ, mi ò dẹ̀ fẹ́ wàhálà fún máa\n",
+    "model": "Sahara/Intron",
+    "duration": 3.700313091278076
+  },
+  {
+    "id": "sample_0088",
+    "reference": "Bon se pack yen o le je pe won ba tiwon lo ni ha, emi ni o da mi loju pemi na n tele oda e fokan bale, to ba je peyin no ntele mo fe fi dayin loju pe awon boys ma wa ni around yi won ma ma so yin losing ati ni oru. Soti ye yin",
+    "prediction": "Park yẹn le the compartment èmi ni ó dá mi lójú pé hon tell or fọkàn balẹ̀. Mo fẹ́ mú dá lójú pé àwọn boys Ma wa larandi on showers\n",
+    "model": "Sahara/Intron",
+    "duration": 8.018839836120605
+  },
+  {
+    "id": "sample_0089",
+    "reference": "O si soro lataaro O ko kami lara ni another one will come Ah ori iya mi yomi olohun se ki me f'owo nepa E ni suru e ni suru ijesha je kin s'alaye fun e bi gbogbo e se ri, joko na Iwo ati tani ko joko, e fimile joor A ni ko joko na Mi o joko O ti da",
+    "prediction": "Ó sì sọ̀rọ̀ látàárọ̀ kò ká mí lára ni and that what we call orí ìyá mi yomi Ọlọ́run for nepa nisuru gbogbo iṣere doko no than gojoko\n",
+    "model": "Sahara/Intron",
+    "duration": 9.809795141220093
+  },
+  {
+    "id": "sample_0090",
+    "reference": "Má worry. má má worry. Màá explain fun ẹ later. Kín má worry? Jọ̀ọ́ ní’torí Ọlọ́run má bínú.",
+    "prediction": "Má wọrí\n",
+    "model": "Sahara/Intron",
+    "duration": 8.248086214065552
+  },
+  {
+    "id": "sample_0091",
+    "reference": "even quarter sọ pé",
+    "prediction": "Even quarters\n",
+    "model": "Sahara/Intron",
+    "duration": 3.3571548461914062
+  },
+  {
+    "id": "sample_0092",
+    "reference": "Sho se gbo? Just forget about him ko de se nkan to fe se, ma so anything fun. You don't have to tell him. Se gbogbo nkan to ba shele lo ma so fun ni? No, but But what?",
+    "prediction": "Ṣo ṣe gbọ́ just forg in about him, could ṣe nǹkan tó fẹ́ ṣe, mass anything, you don't have to tell him. Ṣùgbọ́n nǹkan tó bá ṣe lo fẹ́ máa sọ fún ni but what\n",
+    "model": "Sahara/Intron",
+    "duration": 4.056835889816284
+  },
+  {
+    "id": "sample_0093",
+    "reference": "Alukoro ile ishẹ panapana ni kwara Hassan lakim Adekunle, ni dukiya to so ofo nibi ìjànbá na, ìn lọ bi miliọnu mẹta le logun naira 23 million naira.",
+    "prediction": "Alukoro ilé iṣẹ́ panápaná ní kwara Hasana kima Adekunle ni Dúkíá tó ṣòfò níbi ìjàmbá náà bíi mílíọ̀nù mẹ́tàlélógún náírà\n",
+    "model": "Sahara/Intron",
+    "duration": 3.858208417892456
+  },
+  {
+    "id": "sample_0094",
+    "reference": "Ko work abi officer? Beeni sir",
+    "prediction": "Co work at the officer\n",
+    "model": "Sahara/Intron",
+    "duration": 3.7797818183898926
+  },
+  {
+    "id": "sample_0095",
+    "reference": "Emi de mo fi sibe, right? Oko mi de ni. Mo ni ti Bolaji ba gbe cheque kankan do do yin e ma sign e, e ma award any contract. Ema se ise kankan",
+    "prediction": "Èmi ni mo fi síbẹ̀ yẹn ọkọ mi dé ni mo ní tí Bọ́lájí bá gbé check kankan dando mi award any contract ẹ má ṣe\n",
+    "model": "Sahara/Intron",
+    "duration": 4.379194498062134
+  },
+  {
+    "id": "sample_0096",
+    "reference": "Bawo lo se mo Regardless of the fact that i read medicine",
+    "prediction": "Báwo lo ṣe mọ̀ regardless of the fact that I read medicine\n",
+    "model": "Sahara/Intron",
+    "duration": 3.6271421909332275
+  },
+  {
+    "id": "sample_0097",
+    "reference": "Ka upgrade Ore mi, eleyi lon pe ni shoprite o ti ni niyen o Bawo lose mo shoprite gangan ni bobo yen, lowo yi bayi bobo yen lon hot ju lowo mi",
+    "prediction": "Grain me shock client protimi words by when you know what you know\n",
+    "model": "Sahara/Intron",
+    "duration": 9.107579231262207
+  },
+  {
+    "id": "sample_0098",
+    "reference": "Àwọn ọlọ́pàá ti surround mi. A má f'ọmọ yín lẹ. Sandra, Daddy Sandra",
+    "prediction": "Alo hati Sorry on\n",
+    "model": "Sahara/Intron",
+    "duration": 3.6726229190826416
+  },
+  {
+    "id": "sample_0099",
+    "reference": "E pele ma E seun Se won damu yin l'adugbo Rara rara rara kosi wahala Ehn ehn won gbodo damu yin o e joor o A jo wa okay",
+    "prediction": "Ẹ gbọ́, àwọn ọ̀dàmú ní àdúgbò\n",
+    "model": "Sahara/Intron",
+    "duration": 6.06571888923645
+  }
+]

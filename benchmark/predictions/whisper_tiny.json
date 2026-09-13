@@ -1,0 +1,802 @@
+[
+  {
+    "id": "sample_0000",
+    "reference": "E ni toripe obinrin kan se nkan to dun yin abi to se nkan ti o da fun yin, ka ro pe gbogbo obinrin ni o da o you need to base your",
+    "prediction": "I need to repeat all the instructions. Abito Shin Kotsu Dao Fui, Caro Pebo Boopi in New Dou. You need to be busy, or you need to be busy.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 30.35162854194641
+  },
+  {
+    "id": "sample_0001",
+    "reference": "Iwo ni problem mi, nibo loti jawa lai lokun lorun Iwo ni guts lati wonu Ile mi wa",
+    "prediction": "One problem! No one will know, you won't know, you won't know, God. Let's see, what will happen to me.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 27.04753589630127
+  },
+  {
+    "id": "sample_0002",
+    "reference": "Ara yin len da loro emi ko, haa! Emi o le gba ki omobinrin yii ko ko eru jade abi ki lo wi? just like that?",
+    "prediction": "Araine da lo lo imiko Elio de bar Poepo el potdia diate quari",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 41.106871604919434
+  },
+  {
+    "id": "sample_0003",
+    "reference": "emi tun ro nkankan oo ah tori awon oga mi to pe to ni awon ma send owo si wa yi hmm hmm a le so wipe o ma send e kiakia ko de ma tete send e emi ro wipe",
+    "prediction": "He means you don't conco Don't you want me to talk to you, I want you to know what I'm doing I just want you to know what I'm doing I want you to know what I'm doing I want you to know what I'm doing",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 4.476823091506958
+  },
+  {
+    "id": "sample_0004",
+    "reference": "Kilode to fi allow wọn lati operate POS? Awọn noni mo fẹ operate rẹ awon noni kin gbe wa kawọn operate rẹ fun ra wọn It’s your duty moti man sọ fun yin",
+    "prediction": "那我拿了幾個月 我給你幾個月 我給你幾個月 一只要丟幾個月",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 28.795088529586792
+  },
+  {
+    "id": "sample_0005",
+    "reference": "nilu nila ab gbe gbe ṣe, ki gbogbo è lé lójú ti Ka pa wo pò, ka jọ wà nkan ṣe sọrọ yi. iya Deṣola eh, mo nbọ ki ni oun to nṣe nibe yen? Ah ah no nbọ abeg, come inside best thing ni yen.",
+    "prediction": "That's a Armstrong But what? 1- 2- 3 2- 5 2- 3",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 48.21677350997925
+  },
+  {
+    "id": "sample_0006",
+    "reference": "Ko mo ona to ma fi pada si school",
+    "prediction": "Come on, no, no, no, no, no, no, no, no, no.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 8.31810736656189
+  },
+  {
+    "id": "sample_0007",
+    "reference": "tani mo wa fe pe bayi, ejoor, mo trust oko mi ko le jale, ejoor Ara oun ta ma n wi na niyen, olowo kokoro ko ni fi kogi eyan na ni o fiko ma pe l'osan ma pe l'oru",
+    "prediction": "暫 move baby rise hecho",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 41.65047240257263
+  },
+  {
+    "id": "sample_0008",
+    "reference": "So, e ni lati ran wa lowo kawa naa ran yin lowo",
+    "prediction": "領導,領導,領導,領導",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 23.528162717819214
+  },
+  {
+    "id": "sample_0009",
+    "reference": "sé kí n s má sọ fún ẹ pé kó s'ówó lọ́wọ́ mí ní? Okay mi ò l'ówó.",
+    "prediction": "Thank you, Emma, so far, for a little bit of an honor, me. Okay, you know what?",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 18.716148376464844
+  },
+  {
+    "id": "sample_0010",
+    "reference": "Bawo lo se possible? The love of my life. Mi le gbagbe e o. Ko se opin aye mo fe je ke mo. E wo yin beautiful lady ni yin. E de tun kin se ole. For two months now",
+    "prediction": "这就不 textbook 她爱情人 她爱情这个人 她 restrictive 威獻无非弃 blossoms",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 33.77016258239746
+  },
+  {
+    "id": "sample_0011",
+    "reference": "Seri nkan ta fi pamo lojo yen if not that there is a little delay because you know Nigeria happens to everyone, a ba bayin gbe wale ni. Biyi ra moto kekere kan fun",
+    "prediction": "um Serenco taffi pamulo doe um Even though that is a little delayed because you know my junior happens to have the one ah, bye bye in blue anime P, Ramoto ki kireko",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 31.208602905273438
+  },
+  {
+    "id": "sample_0012",
+    "reference": "n to fun mi ni problem ninu gbogbo oro yen gan niyen yeah pe k'obirin sagbateru, abi bawo ni enu mi se fe toro ta ba se'gbeyawo tan, kini mo se fe to ase ile mi pa o ti ye mi nsin",
+    "prediction": "Tounutingлем problem husband and wife 在 gu palm One person is a stupid woman Even you care about human being What do you want to see from my perspective? I will see you tomorrow",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 49.363911151885986
+  },
+  {
+    "id": "sample_0013",
+    "reference": "Osu yen mi o mu je o I got pregnant ma bimo one year",
+    "prediction": "Wish me a new job, I got pregnant. I'll be more, one year!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 10.348355770111084
+  },
+  {
+    "id": "sample_0014",
+    "reference": "What? E mean e. Sunkanmi fimisile o lo?",
+    "prediction": "What? Hey, Mina, su come to meet me today or what?",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 6.740845441818237
+  },
+  {
+    "id": "sample_0015",
+    "reference": "Ko n se next time e bere leni.",
+    "prediction": "unsi nesta ebe de lenni",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 25.07284641265869
+  },
+  {
+    "id": "sample_0016",
+    "reference": "Ko include e mo awon to tun ma fun ni scholarship abi",
+    "prediction": "欢迎归的马和美举报, و还会教了",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 40.51936459541321
+  },
+  {
+    "id": "sample_0017",
+    "reference": "Hello mo ti sewonba temi le se o E ma binu kabiyesi",
+    "prediction": "A you are very smart. Let me tell you something. Let's go.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 26.011768579483032
+  },
+  {
+    "id": "sample_0018",
+    "reference": "But se iyen ni priority ni life e, o wa marry now, ki ló de ti o joko ti oko e, ki o má ro bí ayé yin se ma daa",
+    "prediction": "我現在也不怕運氣來飛 不怕Married now 那都要做過錯誤 好吧,我把人寫馬雜",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 25.139875411987305
+  },
+  {
+    "id": "sample_0019",
+    "reference": "E Ku oju lona alright major old soldier, major old soldier",
+    "prediction": "Let's call it dulorne. All right. You made a lot of fédia. You made a lot of fédia.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 9.26029372215271
+  },
+  {
+    "id": "sample_0020",
+    "reference": "Ti éyán ba fẹ make impression as a big girl ni nu occasion to bá lo, one of the things ti a máa n lo ni cigar. Watch me o. Ṣé o n wò mí",
+    "prediction": "你啊 我们把事情会受不了 因为我会把事情会受不了 我会受不了 我会受不了 我会受不了",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 27.622360706329346
+  },
+  {
+    "id": "sample_0021",
+    "reference": "enjoy your movie and appetite tv plus baby, aye yin o ni baje, grandma grandma ki lo kan e, mind your business, e ma je kara binrin yi ko gbowo wa lo orun",
+    "prediction": "Enjoy your movie on Appetit TV+. Baby! I am your new body. Grandma, Grandma! What's up? Hey, ya business! Hey! Hey! Hey! Hey!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 9.123393774032593
+  },
+  {
+    "id": "sample_0022",
+    "reference": "Oun laparo e feku si l'oro bobo yi abi what kind of a man get married to his own hand",
+    "prediction": "Alla Parfair Fusik, Moura Barboi Abi What what kind of a man the marriage to his own aunt?",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 21.46372890472412
+  },
+  {
+    "id": "sample_0023",
+    "reference": "Is okay. Nigbati iwo ri obe lowo oga e, kilode ti iwo o se gba obe yen? Olopa tani n je omo akuwarapa niwaju omo akuyanyan? N le gbobe, won o pa mi. Oga olopa",
+    "prediction": "你絕對有什麼? 你絕對有什麼? 你絕對有什麼? 老爸 教他,夫妮,嘉妮,夫妻! 你絕對有什麼? 教他,夫妻!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 32.368330240249634
+  },
+  {
+    "id": "sample_0024",
+    "reference": "ta se, ko to le dipe atoo yin do mo, so I am begging you to please ke ma stress won rara, eyin naa sa mo we pe gbogbo fault ko si kankan ti madam ni ninu e madam has no problem.",
+    "prediction": "但博土歷的家裡文字 我希望你而追加 希望你而追加 希望你而追加 希望你而追加 希望你而追加 希望你而追加",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 52.97308659553528
+  },
+  {
+    "id": "sample_0025",
+    "reference": "kilódé for the past 2 years Lekan",
+    "prediction": "For the past few years, let's go!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 7.901244878768921
+  },
+  {
+    "id": "sample_0026",
+    "reference": "olóré uínè mi ni ọlọ́run kò mí bá ti yín jẹ́ àmín ilé àti ọnà yín kò ní bà jẹ́ o bí ẹ ọ̀ sé jẹ́ kí n rí ogún wàhálà àbúrò àti ẹbí yín kò ní rógun wàhálà thank you so much ṣé o rí wọ ní ilé ayé ẹ.",
+    "prediction": "Koto Paolo da ila bhi j'ai no Oni patin ii j'ai mi Ilia solo ilo nipat j'ai mi Pese j'ai ki rugu wala y'a brunyata bhi o niru wala Say wala I'm sorry wala Ilia j'ai",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 24.570017337799072
+  },
+  {
+    "id": "sample_0027",
+    "reference": "Ki lode So mo so mo how many minutes ti mo ti fi wa nta, ti mo fin gbo aruwo won nu le",
+    "prediction": "Choke me Kirudet Somo Somo Somo Somo Somo Somo Somo",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 14.854722261428833
+  },
+  {
+    "id": "sample_0028",
+    "reference": "So awon people yi won",
+    "prediction": "Swear, la, bip, bip, bip, bip",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 18.717972993850708
+  },
+  {
+    "id": "sample_0029",
+    "reference": "emi kan fe fun e ni honour yen ni nitiripe mo mo gbogbo effort e ninu ise olopa. But iwo funrara e mo wipe koba ofin ise wa mu. You understand?",
+    "prediction": "那不过不应该 dellments如无法, disco testimony in movies 我是阿彦 You understand?",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 39.84966707229614
+  },
+  {
+    "id": "sample_0030",
+    "reference": "Bakanani adaptation won se n ti a ma n pe nipe e won sa ti gba si",
+    "prediction": "悲估计人,和咱们的行程,行程来澄悄悄悄美 我们下期on bashy",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 26.580981016159058
+  },
+  {
+    "id": "sample_0031",
+    "reference": "Real it? iyen ni mi o mo bo se ri Mo kan fe feel e I will slap you, if you touch me again I’m gonna slap you. Sister mi Selo dabi pe seni mo n lala in fact nkan to tun wa fun mi ju nipe, he was not even remorseful",
+    "prediction": "Watashi,我是 Kira,真的? Watashi, God damn good What's happening? You need to know, follow me You need to know you need to know Come on, come on, come on You need to know you need to know You need to know you need to know You need to know, you need to know You need to know from the phone",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 32.48775672912598
+  },
+  {
+    "id": "sample_0032",
+    "reference": "O ti sun mi, oti sun mi kan ogiri, I dey tell you o",
+    "prediction": "Otene son migon, otene son migon, otene son migon, otene con guillade te i o",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 5.657992362976074
+  },
+  {
+    "id": "sample_0033",
+    "reference": "Ah moma fe Mo lo'le fe Ani moti fe, moma fe se So fe ma k'oro si mi lenu ni Ah ewo lori this particular one moma k'oro si yin lenu Kilawa fe se si bayi Nkan ta fe se si yen gangangan tori e mo se wa bi",
+    "prediction": "F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 42.1768434047699
+  },
+  {
+    "id": "sample_0034",
+    "reference": "To fi ma se gbogbo ise to ma se yen, o gbodo reveal identity e fun anybody",
+    "prediction": "To smash the way shut the machine Oh, we got the reveal like 10 to 10 for anybody",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 12.075840950012207
+  },
+  {
+    "id": "sample_0035",
+    "reference": "Aunty mi e ma abort e. Aunty mi e fisile sebi mo ti bayin soro severally Oro kilo ba mi so? Pe",
+    "prediction": "Until my mom was born Until my physical life was born Only then, I was born Only then, I was born Bye",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 8.590394973754883
+  },
+  {
+    "id": "sample_0036",
+    "reference": "tí o múra báyìí tilí o nilí òhún wá ṣẹ́ tí o wọ zara lé adididas packaging ló máà bá dé",
+    "prediction": "We allCamera riesg, and those who were around here You know what I mean . How many of them are got went to you? Right? That you're right It's allright Goal ok we play 사람ly first If you didn't say wrong you send me from mientras Then let's go",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 35.40605974197388
+  },
+  {
+    "id": "sample_0037",
+    "reference": "Oh He did, hmm okay okay no problem, mi ni gbenu le Oro idile yin mo, Okay!",
+    "prediction": "Oh! He did? Okay! Okay, no problem. Me and Ben, we'll all right, you little boy. Okay?",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 19.263399600982666
+  },
+  {
+    "id": "sample_0038",
+    "reference": "je ki n rọmọ Now Taking care of her! Haha! no, no, no, no, báwo lẹ ṣe máa rọmọ lọmọ, why?",
+    "prediction": "好,請給我們的! 好,請給我們的! 好,請給我們的! 這我講幾句話,一句話給我們!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 25.85960578918457
+  },
+  {
+    "id": "sample_0039",
+    "reference": "Ata ni, abi eleyi yawere sa kemi si gate fun wo, tani o",
+    "prediction": "但 他們憐恶苦事 少林",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 30.200485706329346
+  },
+  {
+    "id": "sample_0040",
+    "reference": "Oko eh nko? oko mi wa aburo eh nko? se blessing? Ehn O wa",
+    "prediction": "我求妳,我求妳,我求妳 我求妳,我求妳,我求妳",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 5.877985954284668
+  },
+  {
+    "id": "sample_0041",
+    "reference": "Emi si tun ma n gba awon contract kan kaakiri",
+    "prediction": "Institut当王国务华国务华国务华国务承制",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 18.582162141799927
+  },
+  {
+    "id": "sample_0042",
+    "reference": "abi e so fun mi ode ni si o ni baba olowo le e kuro ninu kitchen o wa de o wa fun awa ni stupidi mood swing ki lo kan awa ati mood swing to ko’ra e si bayi, ti ki n ba ti e se oju kokoro ni",
+    "prediction": "結果Act that would be a box below this man If you want it to be a dress. Would not be a dress. So I said.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 27.793115377426147
+  },
+  {
+    "id": "sample_0043",
+    "reference": "Anything tan ba ta fun yin, ateyin atawon, hun!",
+    "prediction": "M2282 A.J.E.R.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 9.788770198822021
+  },
+  {
+    "id": "sample_0044",
+    "reference": "I send them here like I promised, but inú mi sì sófo, my heart is still crying, I still feel empty.",
+    "prediction": "狠狠。 Made me like I promised it But it is a mulch My heart is tickering I still feel it",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 37.97442936897278
+  },
+  {
+    "id": "sample_0045",
+    "reference": "Oluseye iyiade lo sakojo iroyin yii fun ile ise television alaroye online TV, Faith adebola lo kaa seti igbo yin",
+    "prediction": "complete————————————————————————————————X挝儿这乐观omos家 mit fun! S Ônou shir Corporate Organizer actively播明 松阳锁官报论了4.目的是",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 23.415827751159668
+  },
+  {
+    "id": "sample_0046",
+    "reference": "that's why you love me en yeah eyin babes, I have to leave now, e joo e ma binu, iyawo",
+    "prediction": "That's all you love me, why? I have to leave now. I have to leave now. It's your mother, okay? Thank you. Thank you. I love you. I love you.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 3.6359288692474365
+  },
+  {
+    "id": "sample_0047",
+    "reference": "As a matter of fact mi o mo eni to n so yen gangan o, but to ba di pe o kun karan gida gan self a le se foursome like just let's",
+    "prediction": "Asimato for me more than two so two so I can go but So by the way, I'm going to do a good job, I'm going to save Ali, I'm going to save for some, like just let's-",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 3.638826608657837
+  },
+  {
+    "id": "sample_0048",
+    "reference": "well fun loke o guy bukunmi yen he is a fine guy e mi like e sha Ehen ehen ehen haha",
+    "prediction": "Girl, I'm not you. I'm gonna eat it with fire. You like it, chef.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 8.806025505065918
+  },
+  {
+    "id": "sample_0049",
+    "reference": "se wakati wakati la a ma se Alignment ale ma se ni iseju iseju, kin moto sa ti duro se Alignment ni jeta ewo tun tisin en ro mi lejo ju o",
+    "prediction": "艷兒甲豹鮭鳴州 艷兒甲豹鮪 鄰近市場",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 32.410393953323364
+  },
+  {
+    "id": "sample_0050",
+    "reference": "Kila fe ku to n so E je ni owo po l'owo yin e je ro t'omo towa l'ori sick bed",
+    "prediction": "He left for good news He didn't want to lie down, he didn't want to lie down",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 2.8120338916778564
+  },
+  {
+    "id": "sample_0051",
+    "reference": "Oyinda see with the the look of thing you are taking my love for granted Gbenu sohun",
+    "prediction": "Und I say, with the look of things, I take in my love for granted. Me, you saw!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 5.588972330093384
+  },
+  {
+    "id": "sample_0052",
+    "reference": "odo awon parenti'e nani kobale dafunwon nani owa in good hands eyin na efi okebale ooo oju ti'n royin efi okebale owa in good hands Demilade oko mi jori omojoru",
+    "prediction": "我懂 多麼大人,嫁給我 我懂太義硬 誒,誒,誒,誒,誒,誒,誒 誒,誒,誒,誒,誒,誒",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 18.93769359588623
+  },
+  {
+    "id": "sample_0053",
+    "reference": "tell me with my name, with my dignity, ki n mà lọ si police station, kini mọ wà kiri ni bẹ, haha, you, iwọ Iwo, Iwọ sọ mi di eni to n lọ sọjà.",
+    "prediction": "When my name would my回去, what would my dignity?\" And gonna live in a position like that? Be, you're not! Shut up! Be valuable. Be valuable. Beware! Beware of yourจ. Raise your elbows!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 38.300044298172
+  },
+  {
+    "id": "sample_0054",
+    "reference": "O de confirm e fun mi ahh ko ma je nkan ti mo nro oo because",
+    "prediction": "Odea con fan infi Oma diao con zimeo room Because",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 8.406253576278687
+  },
+  {
+    "id": "sample_0055",
+    "reference": "Tẹ bá ti yí corner báyi Okay. Ehn ehn. Ẹ́ wá yí corner hun padà s’ápá left báyìí. Okay Sir.",
+    "prediction": "Ok",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 12.702842235565186
+  },
+  {
+    "id": "sample_0056",
+    "reference": "Se bohun ni mo sen wu gbogbo iwa palapala ti mo n wu kiri not until igba ti yusuf to tun wa wonu aye wa Ha ha Won nu aye eyin melo Ki lo kilo mean pe wo nu aye wa Folake",
+    "prediction": "проводe No, it's you, I bathe you, Suf. It's you. It's you. It's you. It's you. It's you.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 32.75551748275757
+  },
+  {
+    "id": "sample_0057",
+    "reference": "Ti gbogbo motor yen o ba pada sinu oga yi, consider yourself fired.",
+    "prediction": "這有什麼種有吧? 把他弄了出來 我只是帶有什麼話呀 啊",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 25.0157630443573
+  },
+  {
+    "id": "sample_0058",
+    "reference": "Ma ko kin ma wo e dey commot kin ma wo e, o ti pe to tin se osi oriburuku e, eni yi ajo ma no tan bi owo ni Ninu ile mi ibo lon lo bisola haha bisola ewo ni gbogbo robo rebe yi",
+    "prediction": "媽, cocky my wife They come out to kill my wife They didn't let me do this show You're a good girl And they didn't let me do this They didn't let me do this You're right Ah You're right They didn't let me do this",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 32.17099142074585
+  },
+  {
+    "id": "sample_0059",
+    "reference": "Eyin ko le fa ni, e wa wa bi bai e n act n bi bai fawa, e n sun ekun egbere, you are playing the victim",
+    "prediction": "我很 hp 妳 你没想到ać 能不能变成妳 I want to be a淚",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 21.597374439239502
+  },
+  {
+    "id": "sample_0060",
+    "reference": "Kile leyi? Oo le ka one word níbè So, we are still on your most revered.",
+    "prediction": "Kiddily Uli Kaung Ward in bed So you are seeing on your most revered",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 11.810765027999878
+  },
+  {
+    "id": "sample_0061",
+    "reference": "Thirty be è ahh Àlàyé, kò sí kan kan àbí? kò sí mó Alayé echo",
+    "prediction": "Party beat! Ah la! This is a bad one This is a bad one Ah la! Very good",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 16.539573669433594
+  },
+  {
+    "id": "sample_0062",
+    "reference": "Mo ti fi igi gun oro okunrin nigbesi aye mi, kemi mi le gun. No, No.",
+    "prediction": "What do you feel you do all wrong going with me? Say I give you me Can't you believe me? No No",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 4.633243799209595
+  },
+  {
+    "id": "sample_0063",
+    "reference": "The better or else ma bo sita Laago melo le se fe bo sita lati lo ma se kini? Ah ah my dear",
+    "prediction": "The better oil smab was found.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 13.613465070724487
+  },
+  {
+    "id": "sample_0064",
+    "reference": "So nkan to je ko pe ko to pick lati ma sise niyen Opor, se lo ye ki woman yen kuku san owo fun e fun gbogbo ipolowo to un se yi oo, tori",
+    "prediction": "Zoom 4 jalkup smartphone Sour mir jalkup mwrs iii",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 35.77251195907593
+  },
+  {
+    "id": "sample_0065",
+    "reference": "Idi niyen ni mummy fi ni kin wa bayin, boya e ma mobi tan lo loni Eyin ore wa",
+    "prediction": "He didn't get any money, he didn't get any money He didn't get any money",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 2.9594061374664307
+  },
+  {
+    "id": "sample_0066",
+    "reference": "Kán máa break heart mi l'ọtun lósì, òhun ló bámi dé gbogbo ibi tí mo wà yí, I am tired.",
+    "prediction": "我媽媽被靠著你撐了死 我老爸一定會被我撐了外 啊 啊 啊",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 14.163386106491089
+  },
+  {
+    "id": "sample_0067",
+    "reference": "A lo to bi ijo meji ijo meta nibi tan lo Mo wa wo pe ha se eru yi o kere fun aso fun aso ojo meta ni hun to je pe emeji ni e mo change kile o to su Sanyeri Yes sir Sanyeri Yes sir Kilode? Sawon eku na ni",
+    "prediction": "outputmig gdcjml point th pretty Dfgcjw poso control as softon as Telemetai meеть yesa yeah killotdex live",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 31.594088077545166
+  },
+  {
+    "id": "sample_0068",
+    "reference": "Ani bawo ni? Yeh, mama o fikale si E ma worry mo ti wa okay Jokoo,o n gbon. ki lo se to n gbon?",
+    "prediction": "給打割進彩裡 給石頭",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 31.768479108810425
+  },
+  {
+    "id": "sample_0069",
+    "reference": "Mabinu mo gbagbe lati introduce Samson si e, Samson loruko e oun ni oko afesona arike leyin gbogbo ila ilo mi o le marry mo",
+    "prediction": "maryfully, I maryfully taught the temple that we will see LivingCome in stirrup Welsh Alfi good night, is the only heaven on every one of the world I see the ocean from out there they drank yrirg marimo",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 22.676953554153442
+  },
+  {
+    "id": "sample_0070",
+    "reference": "Oyelowo Sade ti su, ko nu di, ta wa lafe sidi e fun? And that's why I am saying that we should try and make it happen some how.",
+    "prediction": "我以為我才的必須鼓勵, 打了必須結婚 and that's what I'm saying that we should try and just make it up on someone else.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 4.57086181640625
+  },
+  {
+    "id": "sample_0071",
+    "reference": "Sade tan soro e yi pe o lo pemi abo send message si mi nigba tebun wa",
+    "prediction": "下溪宜,祝你,祝你,祝你,祝你,祝你,祝你,祝你!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 20.998135328292847
+  },
+  {
+    "id": "sample_0072",
+    "reference": "I've known you for a couple of months, mo de ri e ko bere iru nkan bayii ri.",
+    "prediction": "I'm the only fake couple of months, but I'm not sure where I could be wrong, but I'll be right back.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 3.369666576385498
+  },
+  {
+    "id": "sample_0073",
+    "reference": "Eh eh how far kilo n sele, won da mi mo",
+    "prediction": "對,阿防 那是誰 那是我彰彰魔",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 9.805496454238892
+  },
+  {
+    "id": "sample_0074",
+    "reference": "and they are going to love you, you know, yeah and I will sha love them too, I'm so honored, yes I can't wait to meet your parents tomorrow yeah, so, nkan to so pe o fe so fun mi,",
+    "prediction": "And that they are going to love you know And I'm sorry about that I'm sorry about that Yes I can't wait to meet you for next tomorrow Yeah So we got to stop what we are Oh my love Ah, you stop me",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 12.77107858657837
+  },
+  {
+    "id": "sample_0075",
+    "reference": "ṣe you dey mad ni, ṣe o wá ok sha? ọwọ ma ba ẹ oun o rántí m'ogún oun dani ori é tí yi ẹ jọ n sare ni o ọmọ mi o sare iwọ ti yọ lẹsẹ.",
+    "prediction": "Hey, their residenceNet You wanna watch this one No, go go, Aprint Come on, let's go I'm you Mom Mom, mom What were youulaesting You follow me Come here, I'll see you",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 37.81215691566467
+  },
+  {
+    "id": "sample_0076",
+    "reference": "Làtì ìgbà yẹn ni mo ti wá promise wọn pé gbogbo ọna tí wọn ba fi wà láàyé",
+    "prediction": "That's it, bad move, I promise I won't be here I won't be here, I won't be here",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 12.522534608840942
+  },
+  {
+    "id": "sample_0077",
+    "reference": "Because music yẹn máa wà pẹlú arúgbó.",
+    "prediction": "Last time agency came out my lap shaking me butt",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 25.402071237564087
+  },
+  {
+    "id": "sample_0078",
+    "reference": "It's about Lolade, ọrọ e ni mowa rí yín fún. Excuse me, please",
+    "prediction": "Is about a lot of you, or any more if a excuse will be this.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 14.050133228302002
+  },
+  {
+    "id": "sample_0079",
+    "reference": "Ese wo mofe se mo j'eyan ti o responsible gan ti mo je ni ibowo f'obirin gaan gan to je pe iwonba nkan ti agbara mi baka ti mo man se but t'ogun ba de kosi nibe ta se fese",
+    "prediction": "我们会去日本 triple on triple It all 我们会去日本 triple on triple 我们会去日本 triple sink",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 37.14055800437927
+  },
+  {
+    "id": "sample_0080",
+    "reference": "Thank you. Era. Yeah. Bawo ni day yin. It's okay. Yeah, weldone.",
+    "prediction": "Thank you You're welcome Ah, bon appetit Thank you",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 14.95830774307251
+  },
+  {
+    "id": "sample_0081",
+    "reference": "Seventen thousand naira oun ni mo so wipe mo need, e de so wipe ko si problem pe ema fun mi tiba ti wole tiba jade. Ki wa ni nkan te ko le mi lowo yi? Wo",
+    "prediction": "外國的概念 這是有幾天 我忘了回家 為何他說什麼?",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 33.199520111083984
+  },
+  {
+    "id": "sample_0082",
+    "reference": "Bíọ́lá má sọ fún mi pé kò sí nkankan, nkan wà. Ìwọ tó jẹ́ pé tó bá dé ibíbayìí wà tí má gist mi gbogbo nkan tó ṣẹlẹ̀, Bíọ́lá sọ̀rọ̀ fúnmi now, kí ló ṣẹ̀ ẹ́? Ọ̀rẹ́ mi, àní mo ti lóyún.",
+    "prediction": "Piaulama sovniu pukusin galkon Yukonwa Otojia pituva de bibe Vatmajisti ni bivon kantojshedi Piaulama sovniu nau Piaulohsiye Piaulohsiye Piaulohi nau Animoto lor",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 33.30087900161743
+  },
+  {
+    "id": "sample_0083",
+    "reference": "It's better here. Factually everybody lo mo ibi bayii, ko ni da bi ibe yen ti iwo nikan maa n da wa. At least awon eeyan ma wo le, won a maa jade. Won a maa ki e. You can't afford to be alone this period.",
+    "prediction": "It's better, eh. Factually everybody will move by. Call it up to be the answer when you command our art. Please don't worry, I won't leave on my chatty. Mama, you can't afford to be alone this period.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 6.965228319168091
+  },
+  {
+    "id": "sample_0084",
+    "reference": "mo wa okay mo wa okay, ko si nkankan to se mi. Alright, so sa wa pa?, o sure? Alright, ko take care. Bye, I love you.",
+    "prediction": "腰拉伽,腰拉伽,腻下腰,腰拉伽 死了,死了,可惯 死了,死了,死了 墓子,冷靜,冷靜",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 41.10179018974304
+  },
+  {
+    "id": "sample_0085",
+    "reference": "\"music* but ni ose nu marun ati ri about three major roads to fun wa ni kan ta fe we'll accept observation sir",
+    "prediction": "It's just normal, but it's really about three more dorms of the morning, but it's just about five minutes. Let's take a look at what's going on. Thank you very much. Thank you.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 17.01822304725647
+  },
+  {
+    "id": "sample_0086",
+    "reference": "A ni running deal now, for the next one week, you are at my service",
+    "prediction": "For the next one week, you are at my service.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 3.4222664833068848
+  },
+  {
+    "id": "sample_0087",
+    "reference": "Do u understand, ti mummy ba wa sile yii bayi, ti won bere si bawa gbe, igbayen lema bere si nri fault ara yin, mo de fe wahala fun ra mi, mo de fe wahala fun e, mo de fe wahala fun maami",
+    "prediction": "itu matter 卌为chestrawang Amiri Fort Daheng They feel bad for Amir We really feel bad for Amir",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 36.19931483268738
+  },
+  {
+    "id": "sample_0088",
+    "reference": "Bon se pack yen o le je pe won ba tiwon lo ni ha, emi ni o da mi loju pemi na n tele oda e fokan bale, to ba je peyin no ntele mo fe fi dayin loju pe awon boys ma wa ni around yi won ma ma so yin losing ati ni oru. Soti ye yin",
+    "prediction": "But you're part in hurry, you're part in bachmala Ah Emini Oda ni luchu pe minontail Oda rafokon baletwai pi Poi no nontailet Moved moudai luchu pe Abois moudai randi On masai losat luchu Choti",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 41.88986253738403
+  },
+  {
+    "id": "sample_0089",
+    "reference": "O si soro lataaro O ko kami lara ni another one will come Ah ori iya mi yomi olohun se ki me f'owo nepa E ni suru e ni suru ijesha je kin s'alaye fun e bi gbogbo e se ri, joko na Iwo ati tani ko joko, e fimile joor A ni ko joko na Mi o joko O ti da",
+    "prediction": "Yes, we will share it for you. No, we will, we will. Oh, we will share it for you. You are the most important person. I will share it for you. Yes sir, I will share it for you. You are my wife. I will take care of you. Please don't go back. Go back.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 39.463948249816895
+  },
+  {
+    "id": "sample_0090",
+    "reference": "Má worry. má má worry. Màá explain fun ẹ later. Kín má worry? Jọ̀ọ́ ní’torí Ọlọ́run má bínú.",
+    "prediction": "阿,媽,媽, mommy! 媽,媽,是否肥肥當? 媽,媽! Mutuni,妈,jun!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 24.670254468917847
+  },
+  {
+    "id": "sample_0091",
+    "reference": "even quarter sọ pé",
+    "prediction": "逆逆逆逆逆逆逆",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 3.2669293880462646
+  },
+  {
+    "id": "sample_0092",
+    "reference": "Sho se gbo? Just forget about him ko de se nkan to fe se, ma so anything fun. You don't have to tell him. Se gbogbo nkan to ba shele lo ma so fun ni? No, but But what?",
+    "prediction": "小貓 小貓 diso議 小貓準備準備 下個字 下個字 下個字 下個字 下個字 下個字 下個字 下個字",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 21.66350555419922
+  },
+  {
+    "id": "sample_0093",
+    "reference": "Alukoro ile ishẹ panapana ni kwara Hassan lakim Adekunle, ni dukiya to so ofo nibi ìjànbá na, ìn lọ bi miliọnu mẹta le logun naira 23 million naira.",
+    "prediction": "Al-Quroilian Shaykh Panak Panak Nikwara, Assalamu Al-Qimad-Dekunli, Nih, Duki, Ato Shofu, Nihbe, Jambana, Nihbe, Nihbe, Nihbe, Nihbe, Nihbe, Nihbe, Nihbe, Nihbe, Nihbe, Nihbe.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 4.458008050918579
+  },
+  {
+    "id": "sample_0094",
+    "reference": "Ko work abi officer? Beeni sir",
+    "prediction": "Work at the office, then it's out.",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 2.8939287662506104
+  },
+  {
+    "id": "sample_0095",
+    "reference": "Emi de mo fi sibe, right? Oko mi de ni. Mo ni ti Bolaji ba gbe cheque kankan do do yin e ma sign e, e ma award any contract. Ema se ise kankan",
+    "prediction": "學校頓宇宙 學校頓宙 校教ụ 學校頓宇宙 學校頓宇宙 學校頓宙頓宇宙 學校頓宙 然後 學學學校頓宇宙",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 35.11363077163696
+  },
+  {
+    "id": "sample_0096",
+    "reference": "Bawo lo se mo Regardless of the fact that i read medicine",
+    "prediction": "We got a list of the fact that I read medicine",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 3.05411958694458
+  },
+  {
+    "id": "sample_0097",
+    "reference": "Ka upgrade Ore mi, eleyi lon pe ni shoprite o ti ni niyen o Bawo lose mo shoprite gangan ni bobo yen, lowo yi bayi bobo yen lon hot ju lowo mi",
+    "prediction": "臺灣彩頭起火昆 依靜! ¡它的老婆女說! 依靜! 依靜! 依靜! 依靜! 依靜! 依靜! 依靜! 依靜! 依靜! 依靜! 依靜!",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 27.230445384979248
+  },
+  {
+    "id": "sample_0098",
+    "reference": "Àwọn ọlọ́pàá ti surround mi. A má f'ọmọ yín lẹ. Sandra, Daddy Sandra",
+    "prediction": "阿wnaparach的所有 entity 阿wnaparach以對 死在你啦 死在你啦 阿wnaparach以對",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 15.572760581970215
+  },
+  {
+    "id": "sample_0099",
+    "reference": "E pele ma E seun Se won damu yin l'adugbo Rara rara rara kosi wahala Ehn ehn won gbodo damu yin o e joor o A jo wa okay",
+    "prediction": "负负负负负负负负负负",
+    "model": "tiny",
+    "language": "yo",
+    "duration": 33.4647536277771
+  }
+]

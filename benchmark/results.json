@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-09-11T13:11:00Z",
+  "manifest": "fixed_yoruba_subset/manifest.json",
+  "dataset": "intronhealth/AfriSwitch (Yoruba subset)",
+  "sampleCount": 100,
+  "models": {
+    "sahara": {
+      "label": "Sahara/Intron Voice AI",
+      "language": "yo",
+      "summary": {
+        "total": 100,
+        "successful": 100,
+        "failures": 0,
+        "wer": 0.8537,
+        "cer": 0.5705,
+        "meanLatencyMs": 4770
+      }
+    },
+    "whisper": {
+      "label": "Faster-Whisper (tiny)",
+      "language": "yo",
+      "summary": {
+        "total": 100,
+        "successful": 100,
+        "failures": 0,
+        "wer": 0.9949,
+        "cer": 0.8117,
+        "meanLatencyMs": 21900
+      }
+    }
+  }
+}

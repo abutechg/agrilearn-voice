@@ -1,0 +1,56 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# private benchmark recordings and manifests
+/benchmark/custom_source/*.wav
+/benchmark/custom_source/metadata.csv
+/benchmark/fixed_custom/
+/benchmark/synthetic_voiceovers/
+
+# vercel
+.vercel
+
+# python venv, datasets and logs
+/benchmark/.venv/
+/benchmark/afriswitch_yoruba_test/
+/benchmark/fixed_yoruba_subset/audio/
+*.log
+
+# local tools
+/.tools/
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
